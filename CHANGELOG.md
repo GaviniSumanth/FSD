@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.6.0](https://github.com/GaviniSumanth/FSD/compare/v1.5.0...v1.6.0) (2023-11-17)
+
+
+### Features
+
+* add frame component ([c10bf10](https://github.com/GaviniSumanth/FSD/commit/c10bf102d00d467215de514247186e4adfb7420e))
+* add project logos ([c2cc968](https://github.com/GaviniSumanth/FSD/commit/c2cc968d33f20fe6c09c3d4ac08b167013b9aed0))
+* add storage util ([049dc8c](https://github.com/GaviniSumanth/FSD/commit/049dc8c2f92255bd615294d09b6334552df26d10))
+* add video deck ([69373b6](https://github.com/GaviniSumanth/FSD/commit/69373b6af89fa1bc5b4a34a6708e19d137fd0ac3))
+* add views and time ago to video cards ([6f2a77f](https://github.com/GaviniSumanth/FSD/commit/6f2a77fc7067ec09adb2565e89c5fb02c1a690dd))
+* added authentication feature ([21efc54](https://github.com/GaviniSumanth/FSD/commit/21efc541f1c2bea0066d31585b47fb03adf5933c))
+* **video:** videoupload ([08cb52d](https://github.com/GaviniSumanth/FSD/commit/08cb52d6629d52ed2341f48404a889ef3ee4934c))
+
+
+### Bug Fixes
+
+* mini video card's text height ([644a0f6](https://github.com/GaviniSumanth/FSD/commit/644a0f60edae8e9cc7927b396c932f6e7e66cc4f))
+* temp fix ([d99466c](https://github.com/GaviniSumanth/FSD/commit/d99466c27638b10f3a1cd2d6354c3ee1f4da4233))
+
 ## [1.5.0](https://github.com/GaviniSumanth/FSD/compare/v1.4.0...v1.5.0) (2023-11-03)
 
 
