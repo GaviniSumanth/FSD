@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.7.0](https://github.com/GaviniSumanth/FSD/compare/v1.6.0...v1.7.0) (2023-12-08)
+
+
+### Features
+
+* **backend connection:** backednconnection ([0bb5f43](https://github.com/GaviniSumanth/FSD/commit/0bb5f439d0623f1b820b0c2d1f97c873a0bee5e3))
+* **backend connection:** backend connection ([fc5823a](https://github.com/GaviniSumanth/FSD/commit/fc5823a11bfaa59cbf004cef593a72666e1ea2b2))
+
 ## [1.6.0](https://github.com/GaviniSumanth/FSD/compare/v1.5.0...v1.6.0) (2023-11-25)
 
 
